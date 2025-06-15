@@ -2,4 +2,6 @@
 
 ## Example
 
-Open `index.html` in a browser to see a simple 3D map of Taiwan built with Three.js. Click the red cones to zoom in from an angled view to a top-down view above the cone.
+Serve `index.html` from a local web server (for example `npx serve`) and open it
+in a browser. The example renders a simple 3D map of Taiwan using Three.js. Click
+the red cones to zoom from an angled view to a top-down view of that location.
